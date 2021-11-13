@@ -1,12 +1,12 @@
 {
-  "sProcessing": "Traitement en cours...",
+  "sProcessing": "<div class="spinner-border text-primary" role="status"><span class="visually-hidden">Chargement...</span></div>",
+  "sLoadingRecords": "Chargement en cours...",
   "sSearch": "<div class=\"input-group\">_INPUT_<span class=\"input-group-addon\"><i class=\"fa fa-search\"></i></span></div>",
   "sLengthMenu": "_MENU_",
   "sInfo": "El&eacute;ments de _START_ &agrave; _END_ sur _TOTAL_",
   "sInfoEmpty": " El&eacute;ments de 0 &agrave; 0 sur 0",
   "sInfoFiltered": "(filtr&eacute; de _MAX_ &eacute;l&eacute;ments au total)",
   "sInfoPostFix": "",
-  "sLoadingRecords": "Chargement en cours...",
   "sZeroRecords": "Aucun &eacute;l&eacute;ment &agrave; afficher",
   "sEmptyTable": "Aucune donn&eacute;e disponible dans le tableau",
   "oPaginate": {
