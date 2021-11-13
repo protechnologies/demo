@@ -1,5 +1,5 @@
 {
-  "sProcessing": '<div class="spinner-border text-primary" role="status"><span class="visually-hidden">Chargement...</span></div>',
+  "sProcessing": "<div class=\"spinner-border text-primary\" role=\"status\"><span class=\"visually-hidden\">Chargement...</span></div>",
   "sLoadingRecords": "Chargement en cours...",
   "sSearch": "<div class=\"input-group\">_INPUT_<span class=\"input-group-addon\"><i class=\"fa fa-search\"></i></span></div>",
   "sLengthMenu": "_MENU_",
