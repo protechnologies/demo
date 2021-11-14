@@ -9,12 +9,12 @@
   "sInfoPostFix": "",
   "sZeroRecords": "Aucun &eacute;l&eacute;ment &agrave; afficher",
   "sEmptyTable": "Aucune donn&eacute;e disponible dans le tableau",
-//  "oPaginate": {
-//    "sFirst": "",
-//    "sPrevious": "",
-//    "sNext": "",
-//    "sLast": ""
-//  },
+  /*"oPaginate": {
+    "sFirst": "",
+    "sPrevious": "",
+    "sNext": "",
+    "sLast": ""
+  },*/
   "oAria": {
     "sSortAscending": ": activer pour trier la colonne par ordre croissant",
     "sSortDescending": ": activer pour trier la colonne par ordre d&eacute;croissant"
