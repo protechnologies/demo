@@ -9,7 +9,8 @@
   "sInfoPostFix": "",
   "sZeroRecords": "Aucun &eacute;l&eacute;ment &agrave; afficher",
   "sEmptyTable": "Aucune donn&eacute;e disponible dans le tableau",
-  
+  "decimal": ",",
+  "thousands": " ",
   "oAria": {
     "sSortAscending": ": activer pour trier la colonne par ordre croissant",
     "sSortDescending": ": activer pour trier la colonne par ordre d&eacute;croissant"
